@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Heel Patel</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on **portfolio project**
+- 🔭 I’m currently working on **python**
 
-- 🌱 I’m currently learning **backend development**
+- 🌱 I’m currently learning **DSA with python**
 
-- 💬 Ask me about **html , css , javascript , python , react**
+- 💬 Ask me about **html , css , javascript , python**
 
 - 📫 How to reach me **patelheel2211@gmail.com**
 
